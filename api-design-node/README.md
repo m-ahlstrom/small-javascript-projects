@@ -32,8 +32,8 @@ The API can be tested using any API dev suites (Postman, Hopscotch, Thunder Clie
 
 ```json
 {
-    "username": testuser,
-    "password": somepassword
+	"username": "testuser",
+	"password": "somepassword"
 }
 ```
 
